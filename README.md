@@ -2,7 +2,7 @@
 
 Neste README vou apresentar meus aprendizados até agora do curso Microsoft Azure Essentials da DIO, estou animado para aprender mais sobre a nuvem e suas ferramentas.
 
-![image](https://github.com/user-attachments/assets/4383486d-c782-4b78-902b-77f2b8dadb74)
+![1473150_Ascenty_OtimizacaodeArtigo_05_VantagensservicosCloud_Mai23capablog-1920x1000-c-default](https://github.com/user-attachments/assets/8230ae63-35f6-4143-9cf3-0b7a0ef28d2f)
 
 ## Introdução a Computação em Nuvem
 
