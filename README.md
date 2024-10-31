@@ -2,6 +2,8 @@
 
 Neste README vou apresentar meus aprendizados até agora do curso Microsoft Azure Essentials da DIO, estou animado para aprender mais sobre a nuvem e suas ferramentas.
 
+![image](https://github.com/user-attachments/assets/4383486d-c782-4b78-902b-77f2b8dadb74)
+
 ## Introdução a Computação em Nuvem
 
 A definição de nuvem pode parecer complicada, mas, basicamente, é um termo utilizado para descrever uma rede global de servidores, cada um com uma função única. A nuvem não é uma entidade física, mas uma vasta rede de servidores remotos ao redor do globo que são conectados e operam como um único ecossistema. A nuvem substitui DataCenters físicos, que demandam muitos gastos e manutenção. Além de disponibilizar recursos facilmente e rapidamente.
