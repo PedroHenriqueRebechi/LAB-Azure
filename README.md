@@ -26,3 +26,7 @@ A definição de nuvem pode parecer complicada, mas, basicamente, é um termo ut
 ### OpEx
 
 Refere-se às despesas operacionais, que são gastos recorrentes com o funcionamento diário de um serviço. Envolve o pagamento por uso, como em modelos de pagamento conforme o uso (pay-as-you-go). Isso permite usar a infraestrutura sem a necessidade de investir grandes quantias inicialmente, facilitando o ajuste de gastos conforme as demandas.
+
+# Benefícios da Nuvem
+
+Para saber mais sobre os benefícios do uso da Nuvem, clique [aqui](Info/Beneficios.md)
