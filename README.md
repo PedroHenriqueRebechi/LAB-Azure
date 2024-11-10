@@ -1,6 +1,6 @@
 # LAB-Azure
 
-Neste repositório vou apresentar meus aprendizados até agora do curso Microsoft Azure Essentials da DIO, estou animado para aprender mais sobre a nuvem e suas ferramentas.
+Neste repositório vou apresentar meus aprendizados até agora do curso Microsoft Azure Essentials da DIO, estou animado para aprender mais sobre a nuvem e suas ferramentas!
 
 ![1473150_Ascenty_OtimizacaodeArtigo_05_VantagensservicosCloud_Mai23capablog-1920x1000-c-default](https://github.com/user-attachments/assets/8230ae63-35f6-4143-9cf3-0b7a0ef28d2f)
 
@@ -31,7 +31,7 @@ Refere-se às despesas operacionais, que são gastos recorrentes com o funcionam
 
 Para saber mais sobre os benefícios do uso da Nuvem, clique [aqui](Info/Beneficios.md)
 
-# Os tipos de serviço
+# Tipos de Serviço
 
 ## IaaS
 Infraestrutura como serviço. Aluguel de servidores, máquinas virtuais, armazenamento, redes entre outros. Mais flexível e te dá maiores poderes para controle.
@@ -41,5 +41,3 @@ Plataforma como serviço. Engloba o IaaS e abrange os sistemas operacionais e fe
 
 ## SaaS
 Software como serviço. Engloba os outros dois tipos e abrange os usuários se conectarem e usarem aplicativos com base em nuvem. Pagamento conforme o uso em modelo de assinatura.
-=======
->>>>>>> 454c303174f12df1f978c893a15359d8a48a6b00
