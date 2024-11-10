@@ -30,7 +30,6 @@ Refere-se às despesas operacionais, que são gastos recorrentes com o funcionam
 # Benefícios da Nuvem
 
 Para saber mais sobre os benefícios do uso da Nuvem, clique [aqui](Info/Beneficios.md)
-<<<<<<< HEAD
 
 # Os tipos de serviço
 
