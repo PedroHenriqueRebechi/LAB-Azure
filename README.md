@@ -30,3 +30,14 @@ Refere-se às despesas operacionais, que são gastos recorrentes com o funcionam
 # Benefícios da Nuvem
 
 Para saber mais sobre os benefícios do uso da Nuvem, clique [aqui](Info/Beneficios.md)
+
+# Os tipos de serviço
+
+## IaaS
+Infraestrutura como serviço. Aluguel de servidores, máquinas virtuais, armazenamento, redes entre outros. Mais flexível e te dá maiores poderes para controle.
+
+## PaaS
+Plataforma como serviço. Engloba o IaaS e abrange os sistemas operacionais e ferramentas para desenvolvedores. Focado no desenvolvimento de apps.
+
+## SaaS
+Software como serviço. Engloba os outros dois tipos e abrange os usuários se conectarem e usarem aplicativos com base em nuvem. Pagamento conforme o uso em modelo de assinatura.
